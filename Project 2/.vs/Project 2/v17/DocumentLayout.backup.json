@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\randy\\source\\repos\\Project 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FFC811-29F8-4B53-A143-0B55B9F7A93F}|Project 2.vcxproj|C:\\Users\\randy\\source\\repos\\Project 2\\9-9-25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7FFC811-29F8-4B53-A143-0B55B9F7A93F}|Project 2.vcxproj|solutionrelative:9-9-25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9-9-25.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\source\\repos\\Project 2\\9-9-25.cpp",
+              "RelativeDocumentMoniker": "9-9-25.cpp",
+              "ToolTip": "C:\\Users\\randy\\source\\repos\\Project 2\\9-9-25.cpp",
+              "RelativeToolTip": "9-9-25.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T17:06:47.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

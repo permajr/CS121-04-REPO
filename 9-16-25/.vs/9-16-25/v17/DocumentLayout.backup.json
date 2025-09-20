@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\randy\\source\\repos\\9-16-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3ABC66-3457-4E8D-A663-F2E3F043AC5D}|9-16-25.vcxproj|C:\\Users\\randy\\source\\repos\\9-16-25\\Project3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3ABC66-3457-4E8D-A663-F2E3F043AC5D}|9-16-25.vcxproj|solutionrelative:Project3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3ABC66-3457-4E8D-A663-F2E3F043AC5D}|9-16-25.vcxproj|C:\\Users\\randy\\source\\repos\\9-16-25\\Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3ABC66-3457-4E8D-A663-F2E3F043AC5D}|9-16-25.vcxproj|solutionrelative:Project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3ABC66-3457-4E8D-A663-F2E3F043AC5D}|9-16-25.vcxproj|C:\\Users\\randy\\source\\repos\\9-16-25\\Project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF3ABC66-3457-4E8D-A663-F2E3F043AC5D}|9-16-25.vcxproj|solutionrelative:Project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project3.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\source\\repos\\9-16-25\\Project3.cpp",
+              "RelativeDocumentMoniker": "Project3.cpp",
+              "ToolTip": "C:\\Users\\randy\\source\\repos\\9-16-25\\Project3.cpp",
+              "RelativeToolTip": "Project3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T18:25:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project1.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\source\\repos\\9-16-25\\Project1.cpp",
+              "RelativeDocumentMoniker": "Project1.cpp",
+              "ToolTip": "C:\\Users\\randy\\source\\repos\\9-16-25\\Project1.cpp",
+              "RelativeToolTip": "Project1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T18:01:43.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project2.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\source\\repos\\9-16-25\\Project2.cpp",
+              "RelativeDocumentMoniker": "Project2.cpp",
+              "ToolTip": "C:\\Users\\randy\\source\\repos\\9-16-25\\Project2.cpp",
+              "RelativeToolTip": "Project2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T17:52:09.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
