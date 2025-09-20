@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|solutionrelative:Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\9-18-25\\pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|solutionrelative:9-18-25\\pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,6 +27,53 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d402885e-85b2-403c-ae0b-ef643e4048b7",
+        "Display": 1,
+        "X": 168,
+        "Y": 153,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pyramid.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\9-18-25\\pyramid.cpp",
+              "RelativeDocumentMoniker": "9-18-25\\pyramid.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\9-18-25\\pyramid.cpp",
+              "RelativeToolTip": "9-18-25\\pyramid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-20T14:26:00.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 2.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
+              "RelativeDocumentMoniker": "Project 2.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
+              "RelativeToolTip": "Project 2.cpp",
+              "ViewState": "AgIAAHAAAAAAWBzHcRwjwJQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-20T13:59:02.271Z",
+              "EditorCaption": ""
             }
           ]
         }
