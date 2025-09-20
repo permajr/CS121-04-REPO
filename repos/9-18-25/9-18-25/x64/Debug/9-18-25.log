@@ -1,4 +1,0 @@
-﻿  Project 2.cpp
-C:\Users\randy\source\repos\9-18-25\Project 2.cpp(34,16): warning C4834: discarding return value of function with [[nodiscard]] attribute
-C:\Users\randy\source\repos\9-18-25\Project 2.cpp(11,7): warning C4101: 'usrin': unreferenced local variable
-  9-18-25.vcxproj -> C:\Users\randy\source\repos\9-18-25\x64\Debug\9-18-25.exe
