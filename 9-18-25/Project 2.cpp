@@ -140,19 +140,24 @@ int main()
 								cin.ignore();
 								cout << "Why would the Sphinx Who Always Lies tell an iconic Lie?\n";
 								getline(cin, reason);
-								cout << "Of course he always lies, that's why I chose him. We love each other unconditionally.\nFrom the day we were constructed he could never tell me he hated me, because that would have been a lie.\n";
+								cout << "Of course he always lies, that's why I chose him. We love each other unconditionally.\nFrom the day we were constructed he could never tell me he hated me, because that would have been a lie.\nThis is the truth.\n";
 								cin.ignore();
-								cout << "I just can't understand why he was afraid. The truth is that we're sphinxes, and cancer doesn't really affect us.\nWe're rock guys.\n";
+								cout << "I just can't understand why he was afraid. Fear is an emotion predicated upon weakness, and weakness is not practical.\nThis is the truth.\n";
 								cin.ignore();
-								cout << "I think he's cheating on me. Lying about where he is, making up false daignoses, he LITERALLY always tells lies.\n";
+								cout << "I think he's cheating on me with some slutty sarcophagus floozy. I can't fucking believe him. This is the truth.\n";
 								cin.ignore();
-								cout << "I think I might want to leave him if this goes on for much longer. I know he can't control his lying, but he doesn't have to be an asshole about it.\n";
+								cout << "I'm going to leave him. He is weak. He is immature. Unreliable. These are not desirable qualities. He can't control his lying, but he can control whether or not he is an asshole. This is the truth.\n";
+								cin.ignore();
+								cin.ignore();
+								cin.ignore();
 								cin.ignore();
 								cout << "Am I being too hard on him?\n";
 								getline(cin, emp);
 								cout << "You're right.\n";
 								cin.ignore();
 								cout << "I guess I should call him.\n";
+								cin.ignore();
+								cout << "Thank you for your help. I guess the real Sphinx's Gambit was the friends we made along the way.\n";
 								cin.ignore();
 								cout << "THE MAGIC OF LOVE HAS RESTORED THE PYRAMID!\n                #";
 								for (int i = 0; i < rows; i++)
@@ -171,13 +176,14 @@ int main()
 								string ouch;
 								cin.clear();
 								cout << "Very Well. I will eat you now. Type 'ouch' to get eaten! \n";
-								cin >> ouch;
+								getline(cin, ouch);
 
 								if(ouch == "ouch")
 								{
 									return 0;
 								}
 							}
+							cin.clear();
 							cout << "Thanks for playing!" << endl;
 							cout << "Press enter to exit." << endl;
 							cin.ignore();
