@@ -37,48 +37,40 @@ int main(int argc, char* argv[])
         while (SDL_PollEvent(&e)) 
         {
             if (e.type == SDL_EVENT_QUIT) {
-                quit = true;
+                quit = true;// if the event flow detects the quit event, destroy
             }
         }
 
 
-        //
-        #define vertLen 4
+        //set a number of vertices
+        #define vertLen 3
         SDL_Vertex vert[vertLen];
 
         // center
-        vert[0].position.x = 400;
-        vert[0].position.y = 150;
+        vert[0].position.x = 150;
+        vert[0].position.y = 100;
         vert[0].color.r = 1.0;
         vert[0].color.g = 0.0;
         vert[0].color.b = 0.0;
         vert[0].color.a = 1.0;
 
         // left
-        vert[1].position.x = 200;
-        vert[1].position.y = 450;
+        vert[1].position.x = 0;
+        vert[1].position.y = 400;
         vert[1].color.r = 0.0;
         vert[1].color.g = 0.0;
         vert[1].color.b = 1.0;
         vert[1].color.a = 1.0;
 
         // right
-        vert[2].position.x = 600;
-        vert[2].position.y = 450;
+        vert[2].position.x = 300;
+        vert[2].position.y = 400;
         vert[2].color.r = 0.0;
         vert[2].color.g = 1.0;
         vert[2].color.b = 0.0;
         vert[2].color.a = 1.0;
-
-        // other
-        vert[3].position.x = 350;
-        vert[3].position.y = 350;
-        vert[3].color.r = 0.0;
-        vert[3].color.g = 1.0;
-        vert[3].color.b = 0.0;
-        vert[3].color.a = 1.0;
         
-
+        //looks like the same thing as above? listen for quit event, etc, except now we start drawing stuff
         while (!quit) {
             SDL_Event ev;
             while (SDL_PollEvent(&ev) != 0) {
@@ -89,11 +81,21 @@ int main(int argc, char* argv[])
                 }
             }
 
+            //render the background as black (R,G,B,A)?
             SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
+            //kill any rander action
             SDL_RenderClear(renderer);
 
+            /*render geometry using the renderer, no texture, using SDL_Vertex for the information of those vertexs and the number defined in[VertLen]
+            * no array of indices into the 'vertices' array, and no indices
+            */
             SDL_RenderGeometry(renderer, NULL, vert, vertLen, NULL, 0);
+            SDL_Rect fllRect = { SCREEN_WIDTH / 4, SCREEN_HEIGHT / 4, SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2 };
 
+            SDL_RenderFillRect(renderer, &fillRect);
+
+
+            //show your work to the class (and the screen)
             SDL_RenderPresent(renderer);
         }
         

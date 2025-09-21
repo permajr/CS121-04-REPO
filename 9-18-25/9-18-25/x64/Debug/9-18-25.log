@@ -1,2 +1,15 @@
 ﻿  Project 2.cpp
-  9-18-25.vcxproj -> C:\Users\randy\CS121-04-REPO\9-18-25\x64\Debug\9-18-25.exe
+  pyramid.cpp
+  Generating Code...
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\9-18-25\Project 2.cpp(122,15): error C2450: a switch expression of type 'std::string' is not valid
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\9-18-25\Project 2.cpp(122,15):
+      No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\9-18-25\Project 2.cpp(123,18): error C2143: syntax error: missing ':' before ';'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\9-18-25\Project 2.cpp(123,13): error C2440: 'type cast': cannot convert from 'const char [4]' to 'int'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\9-18-25\Project 2.cpp(123,13):
+      There is no context in which this conversion is possible
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\9-18-25\Project 2.cpp(123,8): error C2046: illegal case
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\9-18-25\Project 2.cpp(198,7): error C2181: illegal else without matching if
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\9-18-25\Project 2.cpp(125,7): warning C4060: switch statement contains no 'case' or 'default' labels
