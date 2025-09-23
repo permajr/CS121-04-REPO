@@ -1,10 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\",
+  "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\",
   "Documents": [
     {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+      "AbsoluteMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> parent of a8845ec (updating laptop)
+      "RelativeMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|solutionrelative:Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> parent of d614e13 (class)
     }
   ],
   "DocumentGroupContainers": [
@@ -14,27 +23,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+<<<<<<< HEAD
+          "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": -1,
+>>>>>>> parent of a8845ec (updating laptop)
+=======
           "SelectedChildIndex": 2,
+>>>>>>> parent of d614e13 (class)
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5f060ce9-2198-458e-bb25-0f4e767a9e90",
+        "Display": 1,
+        "X": -29,
+        "Y": 286,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+>>>>>>> parent of a8845ec (updating laptop)
+=======
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+>>>>>>> parent of d614e13 (class)
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Project 2.cpp",
-              "DocumentMoniker": "C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
               "RelativeDocumentMoniker": "Project 2.cpp",
-              "ToolTip": "C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
               "RelativeToolTip": "Project 2.cpp",
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAH0AAAAHAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAEkAAAAAcIuUgaf7v7gAAAAPAAAAAAAAAA==",
+>>>>>>> parent of a8845ec (updating laptop)
+=======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+>>>>>>> parent of d614e13 (class)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-23T15:49:32.849Z",
+              "WhenOpened": "2025-09-21T23:45:50.896Z",
               "EditorCaption": ""
             }
           ]
