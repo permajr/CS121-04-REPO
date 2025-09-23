@@ -1,0 +1,4 @@
+﻿  Lab3.cpp
+C:\Users\randy\source\repos\Lab3\Lab3.cpp(19,17): warning C4101: 'root2': unreferenced local variable
+C:\Users\randy\source\repos\Lab3\Lab3.cpp(19,10): warning C4101: 'root1': unreferenced local variable
+  Lab3.vcxproj -> C:\Users\randy\source\repos\Lab3\x64\Debug\Lab3.exe
