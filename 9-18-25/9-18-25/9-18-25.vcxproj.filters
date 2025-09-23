@@ -18,8 +18,5 @@
     <ClCompile Include="..\Project 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pyramid.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
