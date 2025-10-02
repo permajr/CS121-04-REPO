@@ -16,7 +16,7 @@ int main()
 {
 	//declare necessary variables and constants
 	int a, b, c;
-	double  root1, root2, dis;
+	double root1, root2, dis;
 	//decimal formatting
 	cout << setprecision(2) << fixed << showpoint;
 	//prompt for three integer values a,b,c
@@ -28,24 +28,34 @@ int main()
 	cin.ignore();
 	cin >> c;
 	cin.ignore();
-	cout << "Doing some math now...";
+	cout << "Doing some math now...\n";
 	//calculate discriminant and save in variable named dis
 	dis = (b ^ 2) - (4 * a * c);
 	//display if dis is equal to 0, if it's imaginary, or if it's positive and to display all values.
 	if (dis == 0)
 	{
-
+		root1 = b - (sqrt(dis)) / (2 * a);
+		cout << "Here is the root, as the discriminant was 0:\n" << root1;
+		cout << "Press enter to exit.";
+		cin.ignore();
+		return 0;
 	}
 	else if (dis < 0)
 	{
-		cout << root1 << ", " << root2;
+		cout << "This root is imaginary. Press enter to exit.";
+		cin.ignore();
+		return 0;
 	}
-	else if (dis > 0);
+	else if (dis > 0)
 	{
-		cout << root1 << ", " << root2;
+		root1 = b - (sqrt(dis)) / (2 * a);
+		root2 = b + (sqrt(dis)) / (2 * a);
+		cout << root1 << ", " << root2 << endl ;
+		cout << "Press enter to exit.";
+		cin.ignore();
+		return 0;
 	}
 
 
 //end main
-	return 0;
 }
