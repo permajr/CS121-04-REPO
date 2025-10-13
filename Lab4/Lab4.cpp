@@ -14,14 +14,13 @@ using namespace std;
 
 int main() 
 {
+	//ask for user name & get first variable, establish while loop and a couple of variables
 	string name, yesno;
 	bool ans = false;
-	cout << setprecision(2);
-	//ask for user name & get first variable
-	cout << "Enter your name:\n";
+	cout << setprecision(2)<<showpoint <<fixed ;
+	cout << "Enter the student's name:\n";
 	getline(cin, name);
-	cout << "Thank you, " << name << endl;
-	cin.clear();
+	cout << "Thank you." << endl;
 
 /***************************************************************
 	this loop repeats when any wrong answer is entered.
@@ -37,8 +36,8 @@ int main()
 		cin >> gra1;
 		if (gra1 > 100 || gra1 < 0)
 		{
-			cout << "WRONG! TRY AGAIN.";
-			ans = true;
+			cout << "Give it another shot!\n";
+			ans = false;
 			cin.clear();
 		}
 		else
@@ -49,9 +48,8 @@ int main()
 			cin.clear();
 			if (gra2 > 100 || gra1 < 0)
 			{
-				cout << "WRONG. TRY AGAIN FROM THE START.";
-				ans = true;
-				cin.clear();
+				cout << "Try again from the start!\n";
+				ans = false;
 			}
 			else
 			{
@@ -61,43 +59,51 @@ int main()
 				cin.clear();
 				if (gra3 > 100 || gra1 < 0)
 				{
-					cout << "WRONG. TRY AGAIN FROM THE START.";
-					ans = true;
-					cin.clear();
+					cout << "Try again from the start!\n";
+					ans = false;
 				}
 				else
 				{					
 					//calculate average as well as letter grade.
-					cout << "Thanks,"<<name<<". Cruching some numbers. \n";
-					cout << "Here you are, " << name << endl;
+					cout << "Thank you!. Cruching some numbers. \n";
 					avg = (gra1 + gra2 + gra3) / 3;
 					cout << avg << endl;
+					cin.clear();
 					if (avg >= 90)
+					{
 						cout << "This grade is an A!\n";
+						cin.ignore();
+						return 0;
+					}
 					else if (avg >= 80 && avg < 90)
+					{
 						cout << "This grade is a B!\n";
+						cin.ignore();
+						return 0;
+					}
 					else if (avg >= 70 && avg < 80)
+					{
 						cout << "This grade is a C.\n";
-					else if (avg >=50 && avg < 70)
+						cin.ignore();
+						return 0;
+					}
+					else if (avg >= 50 && avg < 70)
+					{
 						cout << "This grade is a D.\n";
+						cin.ignore();
+						return 0;
+					}
 					else if (avg <= 50)
+					{
 						cout << "This grade is an F.\n";
+						cin.ignore();
+						return 0;
+					}
 				}
 			}
 
 		}
-		cin.clear();
-		cout << "Wanna go again? Y/N." << endl;
-		cin >> yesno;
-		getline(cin, yesno);
-		if (yesno == "Y" || yesno == "y")
-			ans = false;
-		else if (yesno == "n" || yesno == "N")
-		{
-			ans = true;
-			break;
-			return 0;
-		}
+
 	}
-	return 0;
+
 }
