@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\",
+  "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BCEB198-0B64-4F61-BC05-D3B5CDEE192E}|9-18-25\\9-18-25.vcxproj|solutionrelative:Project 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,17 +22,42 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "16b0beb0-e6b8-469a-886b-8e768c5c5661",
+        "Display": 1,
+        "X": 508,
+        "Y": 678,
+        "Width": 646,
+        "Height": 104,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Project 2.cpp",
-              "DocumentMoniker": "C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
               "RelativeDocumentMoniker": "Project 2.cpp",
-              "ToolTip": "C:\\Users\\randy\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\9-18-25\\Project 2.cpp",
               "RelativeToolTip": "Project 2.cpp",
-              "ViewState": "AgIAAHUAAAAAseZvXAwbwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAABAXwZmcHMpwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-05T23:20:58.049Z",
               "EditorCaption": ""
