@@ -1,0 +1,37 @@
+//Bubble sort function
+
+void bubbleSort( int nums[], int size)
+ { 
+       int i,j;
+       bool swapped = false;
+       
+       for( i = 0; i < size; i++ )    //passes through he array                                                                    
+         {
+	      for( j = 0; j < size - i - 1; j++ )  // one pass                          
+                {
+                    if( nums[j] > nums[j + 1] )                            
+                        { 
+                           swap( nums[j], nums[j+1] );                       
+                           swapped = true;
+			    }
+                }
+          }
+           if( swapped )
+               swapped = false;
+          else
+	        break;
+        }
+   }
+*********************************************************************
+//Swap function for interchanging values of parameters
+
+void swap( int& num1, int& num2 )
+	 {
+             int temp;      //any temporary variable
+             temp = num1;
+	     num1 = num2;
+	     num2 = temp;
+        }
+**********************************************************************
+
+
