@@ -1,0 +1,8 @@
+Your account number is: 123
+Your account name is: daffy
+Your starting balance was: 34.67
+The total amount deposited was: 294.11
+The total number of deposits was: 3
+The total amount withdrawn was: 45.67
+The total number of withdrawals was: 1
+Your final balance for the month was: -11

@@ -1,0 +1,8 @@
+Your account number is: 345
+Your account name is: goofy
+Your starting balance was: 123.89
+The total amount deposited was: 27.79
+The total number of deposits was: 2
+The total amount withdrawn was: 102.25
+The total number of withdrawals was: 3
+Your final balance for the month was: 100.77
