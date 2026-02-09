@@ -1,0 +1,3 @@
+﻿  weird.cpp
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS132-LAB2\cs132_Lab2_2026\weird.cpp(6,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CS132-LAB2.vcxproj -> C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS132-LAB2\x64\Debug\CS132-LAB2.exe
