@@ -1,0 +1,59 @@
+﻿  arrayi.cpp
+  lab3_client_driver.cpp
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(74,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(74,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(74,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(74,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(74,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(75,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(75,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(75,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(75,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(75,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(76,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(76,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(76,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(76,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(76,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(77,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(77,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(77,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(77,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(77,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(80,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(80,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(80,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(80,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(80,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(81,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(81,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(81,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(81,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(81,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(82,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(82,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(82,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(82,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(82,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(83,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(83,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(83,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(83,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(83,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(84,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(84,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(84,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(84,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(84,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(85,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(85,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(85,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(85,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(85,13): warning C4305:         ]
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(86,13): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(86,13): warning C4305:         with
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(86,13): warning C4305:         [
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(86,13): warning C4305:             T=float
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\lab3_client_driver.cpp(86,13): warning C4305:         ]
+  Generating Code...
+  CS-132-LAB3.vcxproj -> C:\Users\randy\Documents\GitHub\CS121-04-REPO\CS-132-LAB3\x64\Debug\CS-132-LAB3.exe
