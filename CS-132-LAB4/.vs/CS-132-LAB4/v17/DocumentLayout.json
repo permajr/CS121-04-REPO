@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDC8C80-7C91-4F24-924C-3D5BE5B68F71}|CS-132-LAB4.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\set.t||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BDC8C80-7C91-4F24-924C-3D5BE5B68F71}|CS-132-LAB4.vcxproj|solutionrelative:set.t||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDC8C80-7C91-4F24-924C-3D5BE5B68F71}|CS-132-LAB4.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\cs132lab4_driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BDC8C80-7C91-4F24-924C-3D5BE5B68F71}|CS-132-LAB4.vcxproj|solutionrelative:cs132lab4_driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDC8C80-7C91-4F24-924C-3D5BE5B68F71}|CS-132-LAB4.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\set.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BDC8C80-7C91-4F24-924C-3D5BE5B68F71}|CS-132-LAB4.vcxproj|solutionrelative:set.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "set.t",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\set.t",
+              "RelativeDocumentMoniker": "set.t",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\set.t",
+              "RelativeToolTip": "set.t",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T17:50:22.596Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "set.h",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\set.h",
+              "RelativeDocumentMoniker": "set.h",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\set.h",
+              "RelativeToolTip": "set.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-02T16:41:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cs132lab4_driver.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\cs132lab4_driver.cpp",
+              "RelativeDocumentMoniker": "cs132lab4_driver.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS-132-LAB4\\cs132lab4_driver.cpp",
+              "RelativeToolTip": "cs132lab4_driver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T16:28:32.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

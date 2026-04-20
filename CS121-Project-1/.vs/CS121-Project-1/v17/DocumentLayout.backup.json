@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1193BCDB-0076-434D-B45F-6C925BA2BFED}|CS121-Project-1.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1193BCDB-0076-434D-B45F-6C925BA2BFED}|CS121-Project-1.vcxproj|solutionrelative:CS121-Proj1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -27,40 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "70b14a8a-4c44-4082-903c-5c9e3c4f2b98",
-        "Display": 1,
-        "X": 155,
-        "Y": 645,
-        "Width": 1092,
-        "Height": 1922,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CS121-Proj1.cpp",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1.cpp",
-              "RelativeDocumentMoniker": "CS121-Proj1.cpp",
-              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1.cpp",
-              "RelativeToolTip": "CS121-Proj1.cpp",
-              "ViewState": "AgIAAAkAAAAAFjuxEzsnwEkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-23T18:33:33.862Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,112 @@
+﻿  Source.cpp
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(15,7): warning C4552: '>>': result of expression not used
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(25,23): error C2065: 'arraySize': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(5,6):
+      This diagnostic occurred in the compiler generated function 'void mergesort1(T *,const int &)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(25,33): error C2760: syntax error: 'constant' was unexpected here; expected ')'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(5,6):
+      This diagnostic occurred in the compiler generated function 'void mergesort1(T *,const int &)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(25,34): error C2760: syntax error: ',' was unexpected here; expected ';'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(5,6):
+      This diagnostic occurred in the compiler generated function 'void mergesort1(T *,const int &)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(25,34): error C3878: syntax error: unexpected token ',' following 'expression-statement'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(5,6):
+      This diagnostic occurred in the compiler generated function 'void mergesort1(T *,const int &)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(25,36): error C2065: 'arraySize': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(5,6):
+      This diagnostic occurred in the compiler generated function 'void mergesort1(T *,const int &)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(25,49): error C2760: syntax error: ')' was unexpected here; expected ';'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(5,6):
+      This diagnostic occurred in the compiler generated function 'void mergesort1(T *,const int &)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(25,49): error C3878: syntax error: unexpected token ')' following 'expression-statement'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(5,6):
+      This diagnostic occurred in the compiler generated function 'void mergesort1(T *,const int &)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(38,13): error C2065: 'mnew': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(38,14): error C2013: expected a ';'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(38,30): error C2760: syntax error: ';' was unexpected here; expected 'expression'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,3): error C2760: syntax error: 'for' was unexpected here; expected ';'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,19): error C2760: syntax error: ';' was unexpected here; expected ')'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,21): error C3878: syntax error: unexpected token 'i' following 'expression'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,31): error C2760: syntax error: ')' was unexpected here; expected ';'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,31): error C3878: syntax error: unexpected token ')' following 'expression-statement'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,31): error C3878: syntax error: unexpected token ')' following 'statement'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,31): error C3878: syntax error: unexpected token ')' following 'statement-seq'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,31):
+      missing one of:  '}' ?
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,31): error C2760: syntax error: ')' was unexpected here; expected '}'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,31): error C3878: syntax error: unexpected token ')' following 'compound-statement'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(39,31): error C3878: syntax error: unexpected token ')' following 'selection-statement'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(40,4): error C2065: 'temp': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(42,4): error C2065: 'temp': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(44,19): error C2065: 'temp': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(44,29): error C2065: 'temp': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(44,40): error C2065: 'temp': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(44,52): error C2065: 'temp': undeclared identifier
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  
+C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(46,2): error C2760: syntax error: '}' was unexpected here; expected ';'
+      C:\Users\randy\Documents\GitHub\CS121-04-REPO\mergesorter\Source.cpp(7,6):
+      This diagnostic occurred in the compiler generated function 'void sortmerge1(T *,const int &,int,int)'
+  

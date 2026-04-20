@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\randy\\source\\repos\\CS121_LAB1\\",
+  "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121_LAB1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F735D989-1694-41F7-9A33-4BCA0E9F7B50}|CS121_LAB1.vcxproj|C:\\Users\\randy\\source\\repos\\CS121_LAB1\\driver2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F735D989-1694-41F7-9A33-4BCA0E9F7B50}|CS121_LAB1.vcxproj|solutionrelative:driver2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F735D989-1694-41F7-9A33-4BCA0E9F7B50}|CS121_LAB1.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121_LAB1\\LAB1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F735D989-1694-41F7-9A33-4BCA0E9F7B50}|CS121_LAB1.vcxproj|solutionrelative:LAB1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F735D989-1694-41F7-9A33-4BCA0E9F7B50}|CS121_LAB1.vcxproj|C:\\Users\\randy\\source\\repos\\CS121_LAB1\\LAB1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F735D989-1694-41F7-9A33-4BCA0E9F7B50}|CS121_LAB1.vcxproj|solutionrelative:LAB1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F735D989-1694-41F7-9A33-4BCA0E9F7B50}|CS121_LAB1.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121_LAB1\\driver2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F735D989-1694-41F7-9A33-4BCA0E9F7B50}|CS121_LAB1.vcxproj|solutionrelative:driver2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "driver2.cpp",
-              "DocumentMoniker": "C:\\Users\\randy\\source\\repos\\CS121_LAB1\\driver2.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121_LAB1\\driver2.cpp",
               "RelativeDocumentMoniker": "driver2.cpp",
-              "ToolTip": "C:\\Users\\randy\\source\\repos\\CS121_LAB1\\driver2.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121_LAB1\\driver2.cpp",
               "RelativeToolTip": "driver2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -35,12 +35,24 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LAB1.cpp",
-              "DocumentMoniker": "C:\\Users\\randy\\source\\repos\\CS121_LAB1\\LAB1.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121_LAB1\\LAB1.cpp",
               "RelativeDocumentMoniker": "LAB1.cpp",
-              "ToolTip": "C:\\Users\\randy\\source\\repos\\CS121_LAB1\\LAB1.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121_LAB1\\LAB1.cpp",
               "RelativeToolTip": "LAB1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

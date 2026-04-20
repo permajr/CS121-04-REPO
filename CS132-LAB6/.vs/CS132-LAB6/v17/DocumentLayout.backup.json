@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A27C2-7632-4B2F-9E3C-FBBDF9E33448}|CS132-LAB6.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB6\\lab6-client-driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF1A27C2-7632-4B2F-9E3C-FBBDF9E33448}|CS132-LAB6.vcxproj|solutionrelative:lab6-client-driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab6-client-driver.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB6\\lab6-client-driver.cpp",
+              "RelativeDocumentMoniker": "lab6-client-driver.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB6\\lab6-client-driver.cpp",
+              "RelativeToolTip": "lab6-client-driver.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-15T21:54:50.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

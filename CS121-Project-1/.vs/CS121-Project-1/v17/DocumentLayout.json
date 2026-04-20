@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1193BCDB-0076-434D-B45F-6C925BA2BFED}|CS121-Project-1.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1193BCDB-0076-434D-B45F-6C925BA2BFED}|CS121-Project-1.vcxproj|solutionrelative:CS121-Proj1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1193BCDB-0076-434D-B45F-6C925BA2BFED}|CS121-Project-1.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1-Output.docx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1193BCDB-0076-434D-B45F-6C925BA2BFED}|CS121-Project-1.vcxproj|solutionrelative:CS121-Proj1-Output.docx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS121-Proj1.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1.cpp",
+              "RelativeDocumentMoniker": "CS121-Proj1.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1.cpp",
+              "RelativeToolTip": "CS121-Proj1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-30T00:12:08.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CS121-Proj1-Output.docx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1-Output.docx",
+              "RelativeDocumentMoniker": "CS121-Proj1-Output.docx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS121-Project-1\\CS121-Proj1-Output.docx",
+              "RelativeToolTip": "CS121-Proj1-Output.docx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002149|",
+              "WhenOpened": "2026-03-30T00:12:00.877Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

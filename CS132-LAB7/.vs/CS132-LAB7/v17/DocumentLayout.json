@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\lab7-client-driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|solutionrelative:lab7-client-driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|solutionrelative:list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|solutionrelative:stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|solutionrelative:queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\list.t||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|solutionrelative:list.t||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\listNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A649F291-AFA2-41B9-886B-F181444DBA2A}|CS132-LAB7.vcxproj|solutionrelative:listNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listNode.h",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\listNode.h",
+              "RelativeDocumentMoniker": "listNode.h",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\listNode.h",
+              "RelativeToolTip": "listNode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T23:23:17.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stack.h",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\stack.h",
+              "RelativeDocumentMoniker": "stack.h",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\stack.h",
+              "RelativeToolTip": "stack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T23:21:22.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "queue.h",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\queue.h",
+              "RelativeDocumentMoniker": "queue.h",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\queue.h",
+              "RelativeToolTip": "queue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T23:21:21.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "list.t",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\list.t",
+              "RelativeDocumentMoniker": "list.t",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\list.t",
+              "RelativeToolTip": "list.t",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-22T23:21:20.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.h",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\list.h",
+              "RelativeDocumentMoniker": "list.h",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\list.h",
+              "RelativeToolTip": "list.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T23:21:19.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab7-client-driver.cpp",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\lab7-client-driver.cpp",
+              "RelativeDocumentMoniker": "lab7-client-driver.cpp",
+              "ToolTip": "C:\\Users\\randy\\Documents\\GitHub\\CS121-04-REPO\\CS132-LAB7\\lab7-client-driver.cpp",
+              "RelativeToolTip": "lab7-client-driver.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAHUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T23:20:21.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
